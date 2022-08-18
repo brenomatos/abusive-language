@@ -1,1 +1,9 @@
-# abusive-language
+# On the Presence of Abusive Language in Mis/Disinformation
+
+Code for the paper "On the Presence of Abusive Language in Mis/Disinformation", accepted at SocInfo 2022.
+
+Code developed by:
+
+[Breno Matos](https://github.com/brenomatos)
+
+[Rennan Cordeiro](https://github.com/rennancl)
