@@ -7,3 +7,6 @@ Code developed by:
 [Breno Matos](https://github.com/brenomatos)
 
 [Rennan Cordeiro](https://github.com/rennancl)
+
+Note: we included every iteration of the datasets we used, but you can re-create them if needed using the notebooks
+
